@@ -1,6 +1,6 @@
 # 主配置（默认 H2，加 profile=mysql 时由 application-mysql.yml 覆盖数据源等）
 server:
-  port: 8080
+  port: 8082
 
 spring:
   servlet:
